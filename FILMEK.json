@@ -1,7 +1,6 @@
 //Miro
 {
-    "movies": [
-        {
+    "movies": [{
             "title": "Fight Club",
             "timeInMinutes": 139,
             "premierYear": 1999,
@@ -11,8 +10,7 @@
             "directors": [
                 "David Fincher"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Brad Pitt",
                     "characterName": "Tyler Durden",
                     "birthCountry": "USA",
@@ -39,8 +37,7 @@
             "directors": [
                 "Martin Scorsese"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Billy",
                     "birthCountry": "USA",
@@ -67,8 +64,7 @@
             "directors": [
                 "Martin Scorsese"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Teddy Daniels",
                     "birthCountry": "USA",
@@ -95,8 +91,7 @@
             "directors": [
                 "Steven Spielberg"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Frank Abagnale Jr.",
                     "birthCountry": "USA",
@@ -123,8 +118,7 @@
             "directors": [
                 "Andrew Niccol"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Nicolas Cage",
                     "characterName": "Yuri Orlov",
                     "birthCountry": "USA",
@@ -151,8 +145,7 @@
             "directors": [
                 "Tommy Wiseau"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Tommy Wiseau",
                     "characterName": "Johnny",
                     "birthCountry": "Poland",
@@ -180,8 +173,7 @@
             "directors": [
                 "Ridley Scott"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Orlando Bloom",
                     "characterName": "Balian de Ibelin",
                     "birthCountry": "United Kingdom",
@@ -209,8 +201,7 @@
             "directors": [
                 "Damien Chazelle"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Ryan Gosling",
                     "characterName": "Sebastian",
                     "birthCountry": "Canada",
@@ -238,8 +229,7 @@
             "directors": [
                 "Jon S. Baird"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "James McAvoy",
                     "characterName": "Bruce",
                     "birthCountry": "United Kingdom",
@@ -265,8 +255,7 @@
             "directors": [
                 "Danny Boyle"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Ewan McGregor",
                     "characterName": "Renton",
                     "birthCountry": "United Kingdom",
@@ -293,8 +282,7 @@
             "directors": [
                 "Hugh Wilson"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -328,8 +316,7 @@
                 " Jerry Paris",
                 "James Signorelli"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -362,8 +349,7 @@
             "directors": [
                 "Jerry Paris"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -397,8 +383,7 @@
             "directors": [
                 "Jim Drake"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -432,8 +417,7 @@
             "directors": [
                 "Alan Myerson"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Bubba Smith",
                     "characterName": "Moses Hightower",
                     "birthCountry": "USA",
@@ -469,8 +453,7 @@
             "directors": [
                 "Raja Gosnell"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Piper Perabo",
                     "characterName": "Rachel",
                     "birthCountry": "Texas",
@@ -504,8 +487,7 @@
             "directors": [
                 " Max Nichols"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Analeigh Tipton",
                     "characterName": "Megan",
                     "birthCountry": "Minnesota",
@@ -532,8 +514,7 @@
             "directors": [
                 "Christian Ditter"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Dakota Johnson",
                     "characterName": "Alice",
                     "birthCountry": "Texas",
@@ -561,8 +542,7 @@
             "directors": [
                 "Martin Scorsese"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Jordan Belfort",
                     "birthCountry": "California",
@@ -605,8 +585,7 @@
                 "Andrew Adamson",
                 "Vicky Jenson"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Mike Myers",
                     "characterName": "Shrek",
                     "birthCountry": "Texas",
@@ -632,8 +611,8 @@
         //Péti
         {
             "title": "Django Unchained",
-            "timeInMinutes": "165",
-            "premierYear": "2012",
+            "timeInMinutes": 165,
+            "premierYear": 2012,
             "categories": [
                 "Drama",
                 "Western"
@@ -641,68 +620,66 @@
             "directors": [
                 "Quentin Tarantino"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Jamie Foxx",
                     "characterName": "Django",
                     "birthCountry": "USA",
                     "birthCity": "Terrell",
-                    "birthYear": "1967"
+                    "birthYear": 1967
                 },
                 {
                     "name": "Christoph Waltz",
                     "characterName": "Dr. King Schultz",
                     "birthCountry": "Austria",
                     "birthCity": "Vienna",
-                    "birthYear": "1956"
+                    "birthYear": 1956
                 },
                 {
                     "name": "Leonardo di Caprio",
                     "characterName": "Calvi Candie",
                     "birthCountry": "USA",
                     "birthCity": "Hollywood",
-                    "birthYear": "1974"
+                    "birthYear": 1974
                 }
             ]
         },
         {
             "title": "Gran Torino",
-            "timeInMinutes": "116",
-            "premierYear": "2008",
+            "timeInMinutes": 116,
+            "premierYear": 2008,
             "categories": [
                 "Drama"
             ],
             "directors": [
                 "Clint Eastwood"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Clint Eastwood",
                     "characterName": "Walt Kowalski",
                     "birthCountry": "USA",
                     "birthCity": "San Francisco",
-                    "birthYear": "1930"
+                    "birthYear": 1930
                 },
                 {
                     "name": "John Carroll Lynch",
                     "characterName": "Barber Martin",
                     "birthCountry": "USA",
                     "birthCity": "Boulder",
-                    "birthYear": "1963"
+                    "birthYear": 1963
                 },
                 {
                     "name": "Bee Vang",
                     "characterName": "Thao",
                     "birthCountry": "USA",
                     "birthCity": "Fresno",
-                    "birthYear": "1991"
+                    "birthYear": 1991
                 }
             ]
         },
         {
             "title": "The Man Who Wasn't There",
-            "timeInMinutes": "116",
-            "premierYear": "2001",
+            "timeInMinutes": 116,
+            "premierYear": 2001,
             "categories": [
                 "Crime",
                 "Drama"
@@ -711,34 +688,33 @@
                 "Joel Coen",
                 "Ethan Coen"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Billy Bob Thorton",
                     "characterName": "Ed Crane",
                     "birthCountry": "USA",
                     "birthCity": "Hot Springs",
-                    "birthYear": "1955"
+                    "birthYear": 1955
                 },
                 {
                     "name": "Frances McDormand",
                     "characterName": "Doris Crane",
                     "birthCountry": "USA",
                     "birthCity": "Chicago",
-                    "birthYear": "1957"
+                    "birthYear": 1957
                 },
                 {
                     "name": "James Gandolfini",
                     "characterName": "Big Dave Brewster",
                     "birthCountry": "USA",
                     "birthCity": "Westwood",
-                    "birthYear": "1961"
+                    "birthYear": 1961
                 }
             ]
         },
         {
             "title": "Fargo",
-            "timeInMinutes": "98",
-            "premierYear": "1996",
+            "timeInMinutes": 98,
+            "premierYear": 1996,
             "categories": [
                 "Crime",
                 "Drama",
@@ -748,34 +724,33 @@
                 "Joel Coen",
                 "Ethan Coen"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Frances McDormand",
                     "characterName": "Mildred",
                     "birthCountry": "USA",
                     "birthCity": "Chicago",
-                    "birthYear": "1957"
+                    "birthYear": 1957
                 },
                 {
                     "name": "William H. Macy",
                     "characterName": "Jerry Lundegaard",
                     "birthCountry": "USA",
                     "birthCity": "Miami",
-                    "birthYear": "1950"
+                    "birthYear": 1950
                 },
                 {
                     "name": "Steve Buscemi",
                     "characterName": "Carl Showalter",
                     "birthCountry": "USA",
                     "birthCity": "New York",
-                    "birthYear": "1957"
+                    "birthYear": 1957
                 }
             ]
         },
         {
             "title": "The Lincoln Lawyer",
-            "timeInMinutes": "118",
-            "premierYear": "2011",
+            "timeInMinutes": 118,
+            "premierYear": 2011,
             "categories": [
                 "Crime",
                 "Drama",
@@ -784,27 +759,26 @@
             "directors": [
                 "Brad Furman"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Matthew McConaughey",
                     "characterName": "Mick Haller",
                     "birthCountry": "USA",
                     "birthCity": "Uvalde",
-                    "birthYear": "1969"
+                    "birthYear": 1969
                 },
                 {
                     "name": "Marisa Tomei",
                     "characterName": "Maggie McPherson",
                     "birthCountry": "USA",
                     "birthCity": "New York",
-                    "birthYear": "1964"
+                    "birthYear": 1964
                 },
                 {
                     "name": "William H. Macy",
                     "characterName": "Frank Levin",
                     "birthCountry": "USA",
                     "birthCity": "Miami",
-                    "birthYear": "1950"
+                    "birthYear": 1950
                 }
             ]
         },
@@ -820,8 +794,7 @@
             "directors": [
                 "Roman Polański"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Emmanuelle Seigner",
                     "characterName": "Mimi",
                     "birthCountry": "France",
@@ -855,8 +828,7 @@
             "directors": [
                 "James Cameron"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Zoë Saldana",
                     "characterName": "Neytiri",
                     "birthCountry": "USA",
@@ -897,8 +869,7 @@
             "directors": [
                 "Paolo Genovese"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Marco Giallini",
                     "characterName": "Rocco",
                     "birthCountry": "Italy",
@@ -931,8 +902,7 @@
             "directors": [
                 "Vincent Ward"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Robin Williams",
                     "characterName": "Chris Nielsen",
                     "birthCountry": "USA",
@@ -965,8 +935,7 @@
             "directors": [
                 "Gus Van Sant"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Robin Williams",
                     "characterName": "Sean Maguire",
                     "birthCountry": "USA",
@@ -1002,8 +971,7 @@
             "directors": [
                 "Jordan Peele"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Daniel Kaluuya",
                     "characterName": "Chris Washington",
                     "birthCountry": "UK",
@@ -1030,8 +998,7 @@
             "directors": [
                 "Martin McDonagh"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Frances McDormand",
                     "characterName": "Mildred Hayes",
                     "birthCountry": "US",
@@ -1066,8 +1033,7 @@
             "directors": [
                 "Doug Liman"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Tom Cruise",
                     "characterName": "Barry Seal",
                     "birthCountry": "US",
@@ -1095,8 +1061,7 @@
             "directors": [
                 "Edgar Wright"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Ansel Elgort",
                     "characterName": "Baby",
                     "birthCountry": "US",
@@ -1123,8 +1088,7 @@
             "directors": [
                 "Quentin Tarantino"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "John Travolta",
                     "characterName": "Vincent Vega",
                     "birthCountry": "US",
@@ -1152,8 +1116,7 @@
             "directors": [
                 "Damien Chazelle"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "J.K. Simmons",
                     "characterName": "Fletcher",
                     "birthCountry": "USA",
@@ -1180,8 +1143,7 @@
             "directors": [
                 "Martin Campbell"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Daniel Craig",
                     "characterName": "James Bond",
                     "birthCountry": "United Kingdom",
@@ -1209,8 +1171,7 @@
             "directors": [
                 "Christopher Nolan"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Matthew McConaughey",
                     "characterName": "Cooper",
                     "birthCountry": "USA",
@@ -1252,8 +1213,7 @@
             "directors": [
                 "Ridley Scott"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Matt Damon",
                     "characterName": "Mark Watney",
                     "birthCountry": "USA",
@@ -1281,8 +1241,7 @@
             "directors": [
                 "Denis Villeneuve"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Emily Blunt",
                     "characterName": "Kate Macer",
                     "birthCountry": "United Kingdom",
@@ -1311,13 +1270,12 @@
             "directors": [
                 "David Fincher"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Morgan Freeman",
                     "characterName": "Somerset",
                     "birthCountry": "USA",
                     "birthCity": "Memphis",
-                    "birthYear": "1937"
+                    "birthYear": 1937
                 },
                 {
                     "name": "Brad Pitt",
@@ -1345,8 +1303,7 @@
             "directors": [
                 "Sergio Leone"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Clint Eastwood",
                     "characterName": "Monco",
                     "birthCountry": "USA",
@@ -1381,8 +1338,7 @@
             "directors": [
                 "Charles Chaplin"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Charles Chaplin",
                     "characterName": "Factory Worker",
                     "birthCountry": "England",
@@ -1410,8 +1366,7 @@
             "directors": [
                 "Akira Kurosawa"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Maksim Munzuk",
                     "characterName": "Dersu Uzala",
                     "birthCountry": "Russia",
@@ -1438,8 +1393,7 @@
             "directors": [
                 "Fábri Zoltán"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Őze Lajos",
                     "characterName": "Gyurica Miklós",
                     "birthCountry": "Hungary",
@@ -1481,8 +1435,7 @@
             "directors": [
                 "Francis Ford Coppola"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Marlon Brando",
                     "characterName": "Don Vito Corleone",
                     "birthCountry": "USA",
@@ -1510,8 +1463,7 @@
             "directors": [
                 "Terry Gilliam"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Johnny Depp",
                     "characterName": "Raoul Duke",
                     "birthCountry": "USA",
@@ -1538,8 +1490,7 @@
             "directors": [
                 "Clint Eastwood"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Hilary Swank",
                     "characterName": "Maggie Fitzgerald",
                     "birthCountry": "USA",
@@ -1566,8 +1517,7 @@
             "directors": [
                 "Brian De Palma"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Al Pacino",
                     "characterName": "Tony Montana",
                     "birthCountry": "USA",
@@ -1595,8 +1545,7 @@
             "directors": [
                 "Christopher Nolan"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Leonardo Di Caprio",
                     "characterName": "Cobb",
                     "birthCountry": "USA",
@@ -1623,8 +1572,7 @@
             "directors": [
                 "Sam Mendes"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Kevin Spacey",
                     "characterName": "Lester Burnham",
                     "birthCountry": "USA",
@@ -1650,8 +1598,7 @@
             "directors": [
                 "Milos Forman"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Tom Hulce",
                     "characterName": "Wolfgang Amadeus Mozart",
                     "birthCountry": "USA",
@@ -1677,8 +1624,7 @@
             "directors": [
                 "John Lasseter"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Tom Hanks",
                     "characterName": "Woody voice",
                     "birthCountry": "USA",
@@ -1704,8 +1650,7 @@
             "directors": [
                 "Steven Spielberg"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Sam Neill",
                     "characterName": "Dr. Alan Grant",
                     "birthCountry": "Northern Ireland UK",
@@ -1731,8 +1676,7 @@
             "directors": [
                 "Peter Weir"
             ],
-            "cast": [
-                {
+            "cast": [{
                     "name": "Jim Carrey",
                     "characterName": "Truman Burbank",
                     "birthCountry": "Canada",
