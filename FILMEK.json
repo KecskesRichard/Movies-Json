@@ -1691,6 +1691,177 @@
                     "birthYear": 1950
                 }
             ]
+        },
+        //Ricsi
+        {
+            "title": " I Am Legend",
+            "timeInMinutes": 101,
+            "premierYear": 2007,
+            "categories": ["Drama", "Horror", "Sci-Fi"],
+            "directors": [
+                "Francis Lawrence"
+            ],
+            "cast": [{
+                    "name": "Will Smith",
+                    "birthCountry": "USA",
+                    "birthCity": "Philadelphia",
+                    "birthYear": 1968,
+                    "characterName": "Robert Neville"
+                },
+                {
+                    "name": "Alice Braga",
+                    "birthCountry": "Brazil",
+                    "birthCity": "Sao Paulo",
+                    "birthYear": 1983,
+                    "characterName": "Anna"
+                }
+            ]
+        },
+        {
+            "title": "The Hangover",
+            "timeInMinutes": 100,
+            "premierYear": 2009,
+            "categories": [
+                "Comedy"
+            ],
+            "directors": [
+                "Todd Phillips"
+            ],
+            "cast": [{
+                    "name": "Bradley Cooper",
+                    "birthCountry": "USA",
+                    "birthCity": "Philadelphia",
+                    "birthYear": 1975,
+                    "characterName": "Phil"
+                },
+                {
+                    "name": "Ed Helms",
+                    "birthCountry": "USA",
+                    "birthCity": "Atlanta",
+                    "birthYear": 1974,
+                    "characterName": "Stu"
+                },
+                {
+                    "name": "Zach Galifianakis",
+                    "birthCountry": "USA",
+                    "birthCity": "Wilkesboro",
+                    "birthYear": 1969,
+                    "characterName": "Alan"
+                },
+                {
+                    "name": "Justin Bartha",
+                    "birthCountry": "USA",
+                    "birthCity": "West Bloomfield",
+                    "birthYear": 1978,
+                    "characterName": "Doug"
+                }
+            ]
+        },
+        {
+            "title": "Avatar",
+            "timeInMinutes": 162,
+            "premierYear": 2009,
+            "categories": [
+                "Action", "Adventure", "Fantasy"
+            ],
+            "directors": [
+                "James Cameron"
+            ],
+            "cast": [{
+                    "name": "Sam Worthington",
+                    "birthCountry": "UK",
+                    "birthCity": "Godalming",
+                    "birthYear": 1976,
+                    "characterName": "Jake Sully"
+                },
+                {
+                    "name": "Zoe Saldana",
+                    "birthCountry": "USA",
+                    "birthCity": "Passaic",
+                    "birthYear": 1978,
+                    "characterName": "Neytiri"
+                },
+                {
+                    "name": "Sigourney Weaver",
+                    "birthCountry": "USA",
+                    "birthCity": "New York City",
+                    "birthYear": 1949,
+                    "characterName": "Dr. Grace Augustine"
+                },
+                {
+                    "name": "Michelle Rodriguez",
+                    "birthCountry": "USA",
+                    "birthCity": "San Antonio",
+                    "birthYear": 1978,
+                    "characterName": "Trudy Chacón"
+                }
+            ]
+        },
+        {
+            "title": "Pacific Rim",
+            "timeInMinutes": 131,
+            "premierYear": 2013,
+            "categories": [
+                "Action", "Adventure", "Sci-Fi"
+            ],
+            "directors": [
+                "Guillermo del Toro"
+            ],
+            "cast": [{
+                    "name": "Charlie Hunnam",
+                    "birthCountry": "UK",
+                    "birthCity": "Newcastle",
+                    "birthYear": 1980,
+                    "characterName": "Raleigh Becket"
+                },
+                {
+                    "name": "Idris Elba",
+                    "birthCountry": "UK",
+                    "birthCity": "Hackney",
+                    "birthYear": 1972,
+                    "characterName": "Stacker Pentecost"
+                },
+                {
+                    "name": "Rinko Kikuchi",
+                    "birthCountry": "Japan",
+                    "birthCity": "Hadano",
+                    "birthYear": 1981,
+                    "characterName": "Mako Mori"
+                },
+                {
+                    "name": "Charlie Day",
+                    "birthCountry": "USA",
+                    "birthCity": "New York City",
+                    "birthYear": 1976,
+                    "characterName": "Dr. Newton Geiszler"
+                }
+            ]
+        },
+        {
+            "title": "Logan",
+            "timeInMinutes": 137,
+            "premierYear": 2017,
+            "categories": [
+                "Action", "Drama", "Sci-Fi"
+            ],
+            "directors": [
+                "James Mangold"
+            ],
+            "cast": [{
+                    "name": "Hugh Jackman",
+                    "birthCountry": "Australia",
+                    "birthCity": "Sydney",
+                    "birthYear": 1968,
+                    "characterName": "Logan"
+                },
+                {
+                    "name": "Patrick Stewart",
+                    "birthCountry": "UK",
+                    "birthCity": "Mirfield",
+                    "birthYear": 1940,
+                    "characterName": "Charles Xavier"
+                }
+            ]
         }
     ]
 }
